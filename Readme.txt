@@ -1,0 +1,1 @@
+The main file is ImagePoseInitialization in the HW6_Code folder.
